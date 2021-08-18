@@ -14,5 +14,10 @@
         "ext-soap": "*",
         "illuminate/http": "^7.30",
         "illuminate/support": "^7.30"
+    },
+    "autoload": {
+        "psr-4": {
+            "TravelOS\\API\\Suppliers\\Amara\\Clients\\": "src"
+        }
     }
 }

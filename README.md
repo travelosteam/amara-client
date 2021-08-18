@@ -1,5 +1,10 @@
 # Amara PHP Client
 
+[![Latest Stable Version](http://poser.pugx.org/travelosteam/amara-client/v)](https://packagist.org/packages/travelosteam/amara-client)
+[![Total Downloads](http://poser.pugx.org/travelosteam/amara-client/downloads)](https://packagist.org/packages/travelosteam/amara-client) 
+[![Latest Unstable Version](http://poser.pugx.org/travelosteam/amara-client/v/unstable)](https://packagist.org/packages/travelosteam/amara-client)
+[![License](http://poser.pugx.org/travelosteam/amara-client/license)](https://packagist.org/packages/travelosteam/amara-client)
+
 ## Requirements
 
 PHP 7.0 and later.
